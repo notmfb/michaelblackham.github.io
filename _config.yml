@@ -1,3 +1,5 @@
 name: Michael Blackham
 markdown: kramdown
 permalink: /blog/:title
+
+theme: jekyll-theme-cayman

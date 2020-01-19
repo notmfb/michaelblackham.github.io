@@ -1,2 +1,3 @@
 name: Michael Blackham
 markdown: kramdown
+permalink: /blog/:title

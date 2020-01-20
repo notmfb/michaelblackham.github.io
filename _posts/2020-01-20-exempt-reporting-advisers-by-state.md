@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: "Exempt Reporting Advisers by State"
 date: 2020-01-19
-categories: Business
+categories: Business Securities-Law
 author: "Michael Blackham"
 ---
 
